@@ -15,6 +15,17 @@
     background-position: center;
     overflow: hidden;
 }
+
+.divResul{
+    
+}
+
+.h2, .h3{
+    text-shadow: 3px 2px  rgb(0, 0, 0);
+}
+
+
+
 .h1{
     font-size: 40px;
     margin-top: -4em;
